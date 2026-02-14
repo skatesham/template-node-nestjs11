@@ -1,6 +1,6 @@
 {
   "name": "template-node-nestjs",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "NestJS template with Fastify, Prisma, JWT, RBAC and best practices",
   "author": "",
   "private": true,
